@@ -1,0 +1,7 @@
+C:\Users\tejaswini.t\Sample.WiTronix.Web\Sample.WiTronix.Business\bin\Release\Sample.WiTronix.Business.dll
+C:\Users\tejaswini.t\Sample.WiTronix.Web\Sample.WiTronix.Business\bin\Release\Sample.WiTronix.Business.pdb
+C:\Users\tejaswini.t\Sample.WiTronix.Web\Sample.WiTronix.Business\bin\Release\Sample.WiTronix.DataAccess.dll
+C:\Users\tejaswini.t\Sample.WiTronix.Web\Sample.WiTronix.Business\bin\Release\Sample.WiTronix.DataAccess.pdb
+C:\Users\tejaswini.t\Sample.WiTronix.Web\Sample.WiTronix.Business\obj\Release\Sample.WiTronix.Business.csprojResolveAssemblyReference.cache
+C:\Users\tejaswini.t\Sample.WiTronix.Web\Sample.WiTronix.Business\obj\Release\Sample.WiTronix.Business.dll
+C:\Users\tejaswini.t\Sample.WiTronix.Web\Sample.WiTronix.Business\obj\Release\Sample.WiTronix.Business.pdb
