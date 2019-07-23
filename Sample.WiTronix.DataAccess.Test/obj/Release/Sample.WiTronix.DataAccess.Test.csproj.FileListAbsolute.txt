@@ -1,1 +1,0 @@
-C:\Users\tejaswini.t\Sample.WiTronix.Web\Sample.WiTronix.DataAccess.Test\obj\Release\Sample.WiTronix.DataAccess.Test.csprojResolveAssemblyReference.cache

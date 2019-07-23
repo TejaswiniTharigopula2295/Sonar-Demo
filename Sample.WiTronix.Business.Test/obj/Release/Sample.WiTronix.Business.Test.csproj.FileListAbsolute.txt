@@ -1,1 +1,0 @@
-C:\Users\tejaswini.t\Sample.WiTronix.Web\Sample.WiTronix.Business.Test\obj\Release\Sample.WiTronix.Business.Test.csprojResolveAssemblyReference.cache

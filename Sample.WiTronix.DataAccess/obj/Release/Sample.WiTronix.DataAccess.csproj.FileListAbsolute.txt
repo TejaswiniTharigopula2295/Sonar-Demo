@@ -1,5 +1,0 @@
-C:\Users\tejaswini.t\Sample.WiTronix.Web\Sample.WiTronix.DataAccess\bin\Release\Sample.WiTronix.DataAccess.dll
-C:\Users\tejaswini.t\Sample.WiTronix.Web\Sample.WiTronix.DataAccess\bin\Release\Sample.WiTronix.DataAccess.pdb
-C:\Users\tejaswini.t\Sample.WiTronix.Web\Sample.WiTronix.DataAccess\obj\Release\Sample.WiTronix.DataAccess.csprojResolveAssemblyReference.cache
-C:\Users\tejaswini.t\Sample.WiTronix.Web\Sample.WiTronix.DataAccess\obj\Release\Sample.WiTronix.DataAccess.dll
-C:\Users\tejaswini.t\Sample.WiTronix.Web\Sample.WiTronix.DataAccess\obj\Release\Sample.WiTronix.DataAccess.pdb
